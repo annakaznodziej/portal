@@ -1,3 +1,15 @@
+Cześć,
+
+Zainteresował mnie Twój projekt portalu rekrutacyjnego (moja działka). Czy byłbyś zainteresowany rozmową ze mną o współpracy w ramach EENGINE Software House?
+Zajujemy się głównie aplikacjami webowymi i e-commerce i poszukujemy właśnie PHP developera. Chętnie opowiem Ci o firmie i rozjaśnię szczegóły.
+Co Ty na to?
+
+Pozdrawiam serdecznie
+Ania Kaznodziej
+
+
+
+
 <div style="padding:3rem; background:#343a40; color: #f8f9fa;font-family: Work Sans, sans-serif; text-align: center;">
     <h1 style="font-weight:normal;"><a href="https://itoffers.online" target="_blank" style="color: #f8f9fa; text-decoration: none;">it<span style="color:#80f24b">offers</span>.online</a></h1>
 </div>
